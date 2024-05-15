@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom"
 import { useAuth } from "./AuthContext"
-import { useContext } from "react"
 
 export default function HeaderComponent() {
 
